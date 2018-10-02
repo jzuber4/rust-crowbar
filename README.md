@@ -105,8 +105,8 @@ crowbar welcomes your contributions:
 crowbar follows a [code of conduct](https://github.com/ilianaw/rust-crowbar/blob/master/CODE_OF_CONDUCT.md);
 please read it.
 
- [travis]: https://travis-ci.org/ilianaw/rust-crowbar
- [travis.svg]: https://travis-ci.org/ilianaw/rust-crowbar.svg?branch=master
+ [travis]: https://travis-ci.org/jzuber4/rust-crowbar
+ [travis.svg]: https://travis-ci.org/jzuber4/rust-crowbar.svg?branch=master
  [lambci/lambda]: build-python3.6
  [lambda-execution-environment]: https://docs.aws.amazon.com/lambda/latest/dg/current-supported-versions.html
  [naftulikay]: https://github.com/naftulikay
